@@ -1,4 +1,4 @@
-package altar.com.pl;
+package pl.com.altar;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

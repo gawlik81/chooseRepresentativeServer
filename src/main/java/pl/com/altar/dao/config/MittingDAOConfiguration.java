@@ -1,7 +1,7 @@
-package altar.com.pl.dao.config;
+package pl.com.altar.dao.config;
 
-import altar.com.pl.dao.MittingsDAO;
-import altar.com.pl.dao.impl.MittingDAOImpl;
+import pl.com.altar.dao.MittingsDAO;
+import pl.com.altar.dao.impl.MittingDAOImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

@@ -1,4 +1,4 @@
-package altar.com.pl;
+package pl.com.altar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

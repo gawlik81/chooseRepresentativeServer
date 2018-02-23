@@ -4,5 +4,13 @@ spring:
     username: postgres
     password: Gawlik81
     platform: postgresql
+#  mandatory-file-encoding: ISO-8859-2
+  http:
+    encoding:
+      charset: ISO-8859-2
+      enabled: true
 reprezentant:
-  path: D:/baza.csv
+  path: d:/baza.csv
+server:
+  port: 9000
+

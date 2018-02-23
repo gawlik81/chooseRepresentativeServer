@@ -1,4 +1,4 @@
-package altar.com.pl.domain;
+package pl.com.altar.domain;
 
 import lombok.Builder;
 import lombok.Data;
@@ -6,8 +6,8 @@ import lombok.Data;
 @Builder
 @Data
 public class Representant {
-  String kod;
+  String code;
   String region;
-  String nazwa;
+  String representant;
   String email;
 }
